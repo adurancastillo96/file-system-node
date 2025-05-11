@@ -1,0 +1,81 @@
+
+File read: files/2abril_participants_94849208356.csv
+
+aaron sanchez ha venido a clase durante 276 minutos.
+Óscar Miras ha venido a clase durante 246 minutos.
+Esteban Piliponsky ha venido a clase durante 244 minutos.
+Eddybei ha venido a clase durante 242 minutos.
+Daud ha venido a clase durante 74 minutos.
+nidaa kabbaj ha venido a clase durante 239 minutos.
+Eva ha venido a clase durante 277 minutos.
+maria ha venido a clase durante 235 minutos.
+Balam ha venido a clase durante 187 minutos.
+Zulema Casado García-Consuegra ha venido a clase durante 205 minutos.
+Dani ha venido a clase durante 219 minutos.
+Andrii Sharmar ha venido a clase durante 194 minutos.
+Daud Peralta Adan ha venido a clase durante 167 minutos.
+Kevin Hughes ha venido a clase durante 112 minutos.
+Balam Castro ha venido a clase durante 24 minutos.
+
+File read: files/3abril_participants_94849208356.csv
+
+Nicolas Quiroga Mateus ha venido a clase durante 93 minutos.
+Andrii Sharmar ha venido a clase durante 243 minutos.
+Eddybei ha venido a clase durante 58 minutos.
+Eva ha venido a clase durante 200 minutos.
+Daud ha venido a clase durante 106 minutos.
+maria ha venido a clase durante 242 minutos.
+Esteban Piliponksy ha venido a clase durante 27 minutos.
+Vanya ha venido a clase durante 37 minutos.
+Balam ha venido a clase durante 238 minutos.
+Zulema Casado García-Consuegra ha venido a clase durante 237 minutos.
+daniel salcedo ha venido a clase durante 218 minutos.
+Óscar Miras ha venido a clase durante 235 minutos.
+Esteban Piliponsky ha venido a clase durante 213 minutos.
+94849208356 ha venido a clase durante 2 minutos.
+nidaa kabbaj ha venido a clase durante 194 minutos.
+nicolas quiroga ha venido a clase durante 170 minutos.
+Vanya Markova ha venido a clase durante 177 minutos.
+Daud Peralta Adan ha venido a clase durante 136 minutos.
+Dani ha venido a clase durante 17 minutos.
+Kevin Hughes ha venido a clase durante 244 minutos.
+
+File read: files/2mayo_participants_94849208356.csv
+
+Óscar Miras ha venido a clase durante 254 minutos.
+Andrii ha venido a clase durante 252 minutos.
+aaron sanchez ha venido a clase durante 241 minutos.
+Zulema Casado García-Consuegra ha venido a clase durante 192 minutos.
+daniel salcedo ha venido a clase durante 246 minutos.
+Esteban Piliponsky ha venido a clase durante 245 minutos.
+Vanya Markova ha venido a clase durante 359 minutos.
+maria ha venido a clase durante 242 minutos.
+Balam Castro ha venido a clase durante 242 minutos.
+Daud ha venido a clase durante 71 minutos.
+nidaa kabbaj ha venido a clase durante 242 minutos.
+Eva ha venido a clase durante 241 minutos.
+Eddybei ha venido a clase durante 219 minutos.
+Daud Peralta Adan ha venido a clase durante 171 minutos.
+Kevin Hughes ha venido a clase durante 157 minutos.
+Eva Huertas ha venido a clase durante 33 minutos.
+
+File read: files/3junio_participants_94849208356.csv
+
+aaron sanchez ha venido a clase durante 245 minutos.
+Daud ha venido a clase durante 92 minutos.
+Óscar Miras ha venido a clase durante 261 minutos.
+Zulema Casado García-Consuegra ha venido a clase durante 240 minutos.
+nidaa kabbaj ha venido a clase durante 258 minutos.
+Eva ha venido a clase durante 40 minutos.
+maria ha venido a clase durante 253 minutos.
+Balam ha venido a clase durante 251 minutos.
+Esteban Piliponksy ha venido a clase durante 152 minutos.
+Vanya Markova ha venido a clase durante 412 minutos.
+daniel salcedo ha venido a clase durante 183 minutos.
+Andrii Sharmar ha venido a clase durante 233 minutos.
+aaronn sanchez ha venido a clase durante 210 minutos.
+Eva Huertas ha venido a clase durante 223 minutos.
+Daud Peralta Adan ha venido a clase durante 184 minutos.
+Kevin Hughes ha venido a clase durante 166 minutos.
+Esteban Piliponsky ha venido a clase durante 94 minutos.
+Dani ha venido a clase durante 41 minutos.
